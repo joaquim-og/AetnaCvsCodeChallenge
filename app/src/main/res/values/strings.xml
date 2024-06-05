@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">aetna_cvs_code_challenge</string>
+    <string name="search_bar_placeholder">What kind of image do you want?</string>
+    <string name="search_bar_content_description">Search bar icon</string>
+    <string name="search_bar_content_send_description">Searchbar send button\n</string>
+    <string name="home_searched_tag">Flickr images for #value</string>
+    <string name="home_no_images_to_list">No flickr Images to show</string>
+    <string name="flickr_media_item_description">Flickr media image</string>
+    <string name="home_no_search_images">Waiting for some images to show</string>
+    <string name="no_details_selected">Select one image to see the details</string>
+    <string name="details_title">Title: #value</string>
+    <string name="details_description">Description: #value</string>
+    <string name="details_author">Author: #value</string>
+    <string name="details_published">Published: #value</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="home_error_on_call_api">Some error on getting flickr data. Please Try again later</string>
+</resources>
